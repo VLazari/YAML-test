@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VLazari/YAML-test/issues"
   },
-  "homepage": "https://github.com/VLazari/YAML-test#readme"
+  "homepage": "https://github.com/VLazari/YAML-test#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
